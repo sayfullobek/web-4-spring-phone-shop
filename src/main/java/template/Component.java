@@ -28,17 +28,18 @@ public class Component {
                 "    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n" +
                 "    <meta name=\"viewport\" content=\"initial-scale=1, maximum-scale=1\">\n" +
                 "  <!-- Favicon -->\n" +
-                "<link rel=\"shortcut icon\" href=\"\">\n" +
-                "<link rel=\"shortcut icon\" href=\"favicon/favicon.ico\">\n" +
-                "<link rel=\"icon\" type=\"image/gif\" href=\"favicon/animated_favicon1.gif\">" +
-                "<link rel=\"icon\" href=\"https://web-4-spring-phone-shop-e75326382536.herokuapp.com/\">\n" +
+                "  <link href=\"https://static.vecteezy.com/system/resources/previews/001/503/720/original/a-cute-sheep-on-white-background-free-vector.jpg\" rel=\"icon\" type=\"image/png\">\n" +
+//                "<link rel=\"shortcut icon\" href=\"\">\n" +
+//                "<link rel=\"shortcut icon\" href=\"favicon/favicon.ico\">\n" +
+//                "<link rel=\"icon\" type=\"image/gif\" href=\"favicon/animated_favicon1.gif\">" +
+//                "<link rel=\"icon\" href=\"https://web-4-spring-phone-shop-e75326382536.herokuapp.com/\">\n" +
                 "  <link href=\"./assets/img/brand/favicon.png\" rel=\"icon\" type=\"image/png\">\n" +
                 "    <link href=\"https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css\" rel=\"stylesheet\"\n" +
                 "          integrity=\"sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM\" crossorigin=\"anonymous\">\n" +
                 "  <!-- Fonts -->\n" +
                 "  <link href=\"https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700\" rel=\"stylesheet\">\n" +
-                "<link rel=\"shortcut icon\" href=\"favicon/favicon.ico\">\n" +
-                "<link rel=\"icon\" type=\"image/gif\" href=\"favicon/animated_favicon1.gif\">" +
+//                "<link rel=\"shortcut icon\" href=\"favicon/favicon.ico\">\n" +
+//                "<link rel=\"icon\" type=\"image/gif\" href=\"favicon/animated_favicon1.gif\">" +
                 "</head>\n" +
                 "\n" +
                 "<body class=\"\">" +

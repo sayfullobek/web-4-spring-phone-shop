@@ -51,12 +51,13 @@ public class UserPanel {
                 "    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n" +
                 "    <meta name=\"viewport\" content=\"initial-scale=1, maximum-scale=1\">\n" +
                 "    <title>pomato</title>\n" +
-                "<link rel=\"shortcut icon\" href=\"\">\n" +
-                "<link rel=\"icon\" href=\"https://web-4-spring-phone-shop-e75326382536.herokuapp.com/\">\n" +
+                "  <link href=\"https://static.vecteezy.com/system/resources/previews/001/503/720/original/a-cute-sheep-on-white-background-free-vector.jpg\" rel=\"icon\" type=\"image/png\">\n" +
+//                "<link rel=\"shortcut icon\" href=\"\">\n" +
+//                "<link rel=\"icon\" href=\"https://web-4-spring-phone-shop-e75326382536.herokuapp.com/\">\n" +
                 "    <meta name=\"keywords\" content=\"\">\n" +
                 "    <meta name=\"description\" content=\"\">\n" +
-                "<link rel=\"shortcut icon\" href=\"favicon/favicon.ico\">\n" +
-                "<link rel=\"icon\" type=\"image/gif\" href=\"favicon/animated_favicon1.gif\">" +
+//                "<link rel=\"shortcut icon\" href=\"favicon/favicon.ico\">\n" +
+//                "<link rel=\"icon\" type=\"image/gif\" href=\"favicon/animated_favicon1.gif\">" +
                 "    <meta name=\"author\" content=\"\">\n" +
                 "    <link rel=\"stylesheet\" href=\"https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css\">\n" +
                 "    <link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css\">\n" +
@@ -64,8 +65,8 @@ public class UserPanel {
                 "    <link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css\" media=\"screen\">\n" +
                 "      <script src=\"https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js\"></script>\n" +
                 "      <script src=\"https://oss.maxcdn.com/respond/1.4.2/respond.min.js\"></script><![endif]-->\n" +
-                "<link rel=\"shortcut icon\" href=\"favicon/favicon.ico\">\n" +
-                "<link rel=\"icon\" type=\"image/gif\" href=\"favicon/animated_favicon1.gif\">" +
+//                "<link rel=\"shortcut icon\" href=\"favicon/favicon.ico\">\n" +
+//                "<link rel=\"icon\" type=\"image/gif\" href=\"favicon/animated_favicon1.gif\">" +
                 "</head>\n" +
                 "<!-- body -->\n" +
                 "\n" +
