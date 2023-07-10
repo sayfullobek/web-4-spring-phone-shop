@@ -52,6 +52,7 @@ public class UserPanel {
                 "    <meta name=\"viewport\" content=\"initial-scale=1, maximum-scale=1\">\n" +
                 "    <title>pomato</title>\n" +
                 "<link rel=\"shortcut icon\" href=\"\">\n" +
+                "<link rel=\"icon\" href=\"https://web-4-spring-phone-shop-e75326382536.herokuapp.com/\">\n" +
                 "    <meta name=\"keywords\" content=\"\">\n" +
                 "    <meta name=\"description\" content=\"\">\n" +
                 "<link rel=\"shortcut icon\" href=\"favicon/favicon.ico\">\n" +

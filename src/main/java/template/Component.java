@@ -31,6 +31,7 @@ public class Component {
                 "<link rel=\"shortcut icon\" href=\"\">\n" +
                 "<link rel=\"shortcut icon\" href=\"favicon/favicon.ico\">\n" +
                 "<link rel=\"icon\" type=\"image/gif\" href=\"favicon/animated_favicon1.gif\">" +
+                "<link rel=\"icon\" href=\"https://web-4-spring-phone-shop-e75326382536.herokuapp.com/\">\n"+
                 "  <link href=\"./assets/img/brand/favicon.png\" rel=\"icon\" type=\"image/png\">\n" +
                 "    <link href=\"https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css\" rel=\"stylesheet\"\n" +
                 "          integrity=\"sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM\" crossorigin=\"anonymous\">\n" +
