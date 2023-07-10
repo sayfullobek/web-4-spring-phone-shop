@@ -64,6 +64,8 @@ public class UserPanel {
                 "    <link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css\" media=\"screen\">\n" +
                 "      <script src=\"https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js\"></script>\n" +
                 "      <script src=\"https://oss.maxcdn.com/respond/1.4.2/respond.min.js\"></script><![endif]-->\n" +
+                "<link rel=\"shortcut icon\" href=\"favicon/favicon.ico\">\n" +
+                "<link rel=\"icon\" type=\"image/gif\" href=\"favicon/animated_favicon1.gif\">" +
                 "</head>\n" +
                 "<!-- body -->\n" +
                 "\n" +
