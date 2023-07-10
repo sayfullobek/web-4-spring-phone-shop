@@ -54,6 +54,8 @@ public class UserPanel {
                 "<link rel=\"shortcut icon\" href=\"\">\n" +
                 "    <meta name=\"keywords\" content=\"\">\n" +
                 "    <meta name=\"description\" content=\"\">\n" +
+                "<link rel=\"shortcut icon\" href=\"favicon/favicon.ico\">\n" +
+                "<link rel=\"icon\" type=\"image/gif\" href=\"favicon/animated_favicon1.gif\">" +
                 "    <meta name=\"author\" content=\"\">\n" +
                 "    <link rel=\"stylesheet\" href=\"https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css\">\n" +
                 "    <link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css\">\n" +
