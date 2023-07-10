@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="web-4-first-spring" />
+        <module name="web-4-spring-phone-shop" />
       </profile>
     </annotationProcessing>
   </component>
