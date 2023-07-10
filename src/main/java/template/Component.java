@@ -24,6 +24,7 @@ public class Component {
                 "    Argon Dashboard - Free Dashboard for Bootstrap 4 by Creative Tim\n" +
                 "  </title>\n" +
                 "  <!-- Favicon -->\n" +
+                "<link rel=\"shortcut icon\" href=\"\">\n" +
                 "  <link href=\"./assets/img/brand/favicon.png\" rel=\"icon\" type=\"image/png\">\n" +
                 "    <link href=\"https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css\" rel=\"stylesheet\"\n" +
                 "          integrity=\"sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM\" crossorigin=\"anonymous\">\n" +

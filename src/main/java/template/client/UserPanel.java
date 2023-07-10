@@ -51,6 +51,7 @@ public class UserPanel {
                 "    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n" +
                 "    <meta name=\"viewport\" content=\"initial-scale=1, maximum-scale=1\">\n" +
                 "    <title>pomato</title>\n" +
+                "<link rel=\"shortcut icon\" href=\"\">\n" +
                 "    <meta name=\"keywords\" content=\"\">\n" +
                 "    <meta name=\"description\" content=\"\">\n" +
                 "    <meta name=\"author\" content=\"\">\n" +
