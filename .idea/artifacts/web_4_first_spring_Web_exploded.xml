@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="web-4-first-spring:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/web_4_first_spring_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="web-4-first-spring/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="web-4-first-spring" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: javax.servlet:jstl:1.2" />
+          <element id="library" level="project" name="Maven: org.checkerframework:checker-qual:3.5.0" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:6.0.10" />
+          <element id="library" level="project" name="Maven: org.postgresql:postgresql:42.5.4" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jcl:6.0.10" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:6.0.10" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jdbc:6.0.10" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-tx:6.0.10" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
